@@ -1,5 +1,5 @@
 
-<h1 align="center"> Dashgo .</h1>
+<h1 align="center"> Barbearia Alura</h1>
 
 <p align="center"> Página do dashboard: </p>
 <img src="assets/telaHome.jpeg">
@@ -18,11 +18,6 @@
 
 ---
 
-<div align="center" text-align="center">
-<p align="center"> Versão mobile:</p> 
-<img src="src/assets/mobile-menu.png">
-<img src="src/assets/mobile.png">
-</div>
 
 ## 💻 Projeto:
 Primeiro projeto desenvolvido durante o curso de HTML5 e CSS3 da Alura. 
