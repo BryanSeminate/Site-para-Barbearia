@@ -299,6 +299,11 @@ select{
         display: grid;
         margin: 45px;
     }
+
+    .bloco-produtos{
+        margin-bottom: 20px;
+        max-width: 100vw
+    }
    
 }
 
