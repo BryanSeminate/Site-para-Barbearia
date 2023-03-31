@@ -1,6 +1,10 @@
 
-<h1 align="center"> Barbearia Alura</h1>
 
+
+<p align="center"> <img src=logo-branco.png?raw=true" alt="Logo da barbearia"> </p>
+<p align="center">O site Barbearia Alura é uma aplicação de um dasboard moderno para lançamento de produtos e cadatro de clientes, com uma home informando sobre a empresa, e produtos oferecidos</p>
+
+## Screenshots
 <p align="center"> Página do dashboard: </p>
 <img src="assets/telaHome.jpeg">
 
@@ -19,13 +23,6 @@
 ---
 
 
-## 💻 Projeto:
-Primeiro projeto desenvolvido durante o curso de HTML5 e CSS3 da Alura. 
-
-Barbearia Alura é uma aplicação de um dasboard moderno para lançamento de produtos e cadatro de clientes, com uma home informando sobre a empresa..  
-
-O proejto foi desenvolvido utilizando HTML5 e CSS3.
-
 ## 🚀 Tecnologias: 
 <p>
   As seguintes ferramentas foram usadas no desenvolvimento dessa aplicação:
@@ -33,4 +30,6 @@ O proejto foi desenvolvido utilizando HTML5 e CSS3.
       <li><a href="https://www.alura.com.br/cursos-online-front-end/html-css?gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc6SkEWZdBPFVv6LQJMeOqmkuWzFhLmPSK1VO-6wDc-4RbIKHOKdgoMaAneWEALw_wcB">HTML5</a></li>
       <li><a href="https://www.alura.com.br/cursos-online-front-end/html-css?gclid=Cj0KCQiApKagBhC1ARIsAFc7Mc6SkEWZdBPFVv6LQJMeOqmkuWzFhLmPSK1VO-6wDc-4RbIKHOKdgoMaAneWEALw_wcB">CSS3</a></li>
  </p>
+
+
 
