@@ -103,34 +103,33 @@ nav a:hover{
 /*Contatos*/
 
 main {
-    
-    padding: 40px 0 ;
+    padding: 40px 0;
+    text-align: center;
 }
 
-form {
-    margin: 40px 0;
+.fomulario {
+    margin: 60px 0;
+    display: inline-block;
 }
 
 form label, form legend{
     display: block;
     font-size: 20px;
-    margin: 20px;
+    margin: 20px 25px;
 }
 
 .input-padrao {
-    display: block;
-    margin: 20px;
+    display: inline-block;
     padding: 10px 25px;
     width: 55%;
+    border-radius: 4px;
 }
-
-.checkbox{
-    margin:  0;
-    padding: 20px;
-}
-
 select{
     margin: 22px;
+    padding: 10px 20px;
+    background-color: #555555;
+    color: #FFFFFF;
+    border-radius: 5px;
 }
 
 
@@ -154,11 +153,10 @@ select{
 }
 
 .tabela {
-    
     width: 40%;
-    margin: 20px 10% 40px;
-    right: inherit;
+    margin: 20px 31% 40px;
     box-shadow: 10px 10px 10px #000000;
+    border-radius: 6px;
 }
 
 .cabeca {
@@ -170,7 +168,7 @@ select{
 .td, .th {
     border: 1px solid #000000;
     padding: 8px 15px;
-    text-align: center;
+
 }
 
 /*Home*/
