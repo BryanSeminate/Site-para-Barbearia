@@ -4,6 +4,10 @@
 <p align="center"> <img src=logo-branco.png?raw=true" alt="Logo da barbearia"> </p>
 <p align="center">O site Barbearia Alura é uma aplicação de um dasboard moderno para lançamento de produtos e cadatro de clientes, com uma home informando sobre a empresa, e produtos oferecidos</p>
 
+
+## Link
+https://bryanseminate.github.io/Site-para-Barbearia/
+
 ## Screenshots
 <p align="center"> Página do dashboard: </p>
 <img src="assets/telaHome.jpeg">
